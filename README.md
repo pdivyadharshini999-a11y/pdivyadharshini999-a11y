@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm P.Divyadharshini 👋
 
-<!--
-**pdivyadharshini999-a11y/pdivyadharshini999-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI/ML & Data Engineering Specialist focused on building scalable, end-to-end data pipelines for complex scientific domains. I don’t just build models; I build the systems that power them.
 
-Here are some ideas to get you started:
+My flagship project, the CADD Data Pipeline, has gained significant community traction with 800+ clones on GitHub, proving its utility in the molecular research space. Through this evolution, I have mastered the transition from raw data cleaning to high-performance engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Expertise:
+
+Data Engineering: Designing automated workflows with Apache Airflow, processing big data with PySpark, and managing structured datasets using SQL (SQLite).
+
+Machine Learning: Developed predictive models (Random Forest, Regressors) with an R² score of 0.76, specializing in overcoming overfitting through hyperparameter tuning.
+
+Domain Knowledge: Expert in Computer-Aided Drug Design (CADD), utilizing RDKit for molecular descriptor generation and SMILES validation.
+
+Full-Stack ML: Proficient in Python, Scikit-learn, Pandas, and Git/GitHub version control.
+
+I am driven by the challenge of transforming messy, large-scale data into actionable insights. Currently seeking opportunities where I can apply my engineering mindset to solve real-world AI challenges.
