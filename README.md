@@ -1,17 +1,36 @@
-# Hi, I'm P.Divyadharshini 👋
+# Hi, I'm P.Divyadharshini 👋 
 
-I am an AI/ML & Data Engineering Specialist focused on building scalable, end-to-end data pipelines for complex scientific domains. I don’t just build models; I build the systems that power them.
+I am a **Bio-Data Engineer & AI/ML Specialist** dedicated to building scalable, end-to-end pipelines for complex scientific domains. I bridge the gap between raw biological data and actionable therapeutic insights.
 
-My flagship project, the CADD Data Pipeline, has gained significant community traction with 800+ clones on GitHub, proving its utility in the molecular research space. Through this evolution, I have mastered the transition from raw data cleaning to high-performance engineering.
+---
 
-Technical Expertise:
+###  Featured Deployment: Molecular Property Predictor
+I recently moved my research from local scripts to a live production environment.
+* **Live App:** [CADD Molecular Property Predictor](https://cadd-data-pipeline-project-94czis6rlgjgeoaetjbnwk.streamlit.app/)
+* **Capability:** Input any SMILES string to instantly predict pIC50 bioactivity and calculate essential chemical descriptors (LogP, TPSA, MW).
 
-Data Engineering: Designing automated workflows with Apache Airflow, processing big data with PySpark, and managing structured datasets using SQL (SQLite).
+---
 
-Machine Learning: Developed predictive models (Random Forest, Regressors) with an R² score of 0.76, specializing in overcoming overfitting through hyperparameter tuning.
+###  Engineering Impact
+* **Flagship Project:** [CADD Data Pipeline](https://github.com/pdivyadharshini999-a11y/cadd-data-pipeline-project)
+* **Community Traction:** **840+ Clones** and **330+ Unique Users** in 14 days.
+* **Performance:** Automated the processing of 16,000+ molecular records using industry-standard engineering tools.
 
-Domain Knowledge: Expert in Computer-Aided Drug Design (CADD), utilizing RDKit for molecular descriptor generation and SMILES validation.
+---
 
-Full-Stack ML: Proficient in Python, Scikit-learn, Pandas, and Git/GitHub version control.
+###  Technical Toolbox
+* **Data Engineering:** Apache Airflow (Workflow Orchestration), PySpark (Big Data Processing), SQL (Data Persistence).
+* **Machine Learning:** Scikit-learn (Random Forest, Hyperparameter Tuning), R² Optimization (0.76 Score).
+* **Bioinformatics:** RDKit (Molecular Informatics), SMILES Validation, Quantitative Structure-Activity Relationship (QSAR) modeling.
+* **Deployment:** Streamlit, GitHub Actions, Python Full-Stack.
 
-I am driven by the challenge of transforming messy, large-scale data into actionable insights. Currently seeking opportunities where I can apply my engineering mindset to solve real-world AI challenges.
+---
+
+###  Let's Connect
+I am currently seeking opportunities in **Bioinformatics, Data Engineering, and AI Research** where I can apply my "Engineer-First" mindset to solve real-world healthcare challenges.
+
+-  **Email:** [pdivyadharshini999@gmail.com](mailto:pdivyadharshini999@gmail.com)
+-  **LinkedIn:** https://www.linkedin.com/in/divya-dharshini-p-%E2%80%8E-4756962a3/
+-  **Location:** Tamil Nadu, India (Open to Global Opportunities)
+
+---
