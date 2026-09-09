@@ -1,6 +1,6 @@
 # Hi, I'm P.Divyadharshini 👋 
 
-I am a **Bio-Data Engineer & AI/ML Specialist** dedicated to building scalable, end-to-end pipelines for complex scientific domains. I bridge the gap between raw biological data and actionable therapeutic insights.
+I am a **Bio-Data Engineer & AI/ML Researcher** dedicated to building scalable, end-to-end pipelines for complex scientific domains. I bridge the gap between raw biological data and actionable therapeutic insights.
 
 ---
 
