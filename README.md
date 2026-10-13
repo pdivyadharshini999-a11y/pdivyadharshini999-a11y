@@ -5,8 +5,8 @@ I am a Bio-Data Engineer & AI/ML Researcher dedicated to building scalable, end-
 ##  Featured Deployments
 
 ###  mlbuddy-a11y — Open-Source Python Package wrapper
-*   **Live Package Platform:** [pypi.org/project/mlbuddy-a11y](https://pypi.org)
-*   **Demonstration Resource:** [YouTube Project Walkthrough](https://youtu.be)
+*   **Live Package Platform:** [pypi.org/project/mlbuddy-a11y](https://pypi.org/project/mlbuddy-a11y/)
+*   **Demonstration Resource:** [YouTube Project Walkthrough](https://youtu.be/8eHBK6NWcBU?si=9O-pjD0FdrchDl8p)
 *   **Capability:** Allows beginners to ingest datasets and train 6 core regression and classification models using modular object-oriented methods, bypassing complex scikit-learn boilerplate configurations.
 
 ###  Molecular Property Predictor
